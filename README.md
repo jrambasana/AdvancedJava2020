@@ -1,2 +1,3 @@
-# Advanced_Java_Tutorials
-All Advanced Java Tutorial Programs done in Lab
+# Advanced Java Programs
+All Advanced Java Programs done in Lab. 
+For GTU students
