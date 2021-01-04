@@ -7,8 +7,8 @@
 <!-- the Compile on Save feature is turned off for the project. -->
 <!-- You can turn off the Compile on Save (or Deploy on Save) setting -->
 <!-- in the project's Project Properties dialog box.-->
-<project name="P03_DateApp" default="default" basedir=".">
-    <description>Builds, tests, and runs the project P03_DateApp.</description>
+<project name="WebApp" default="default" basedir=".">
+    <description>Builds, tests, and runs the project WebApp.</description>
     <import file="nbproject/build-impl.xml"/>
     <!--
 
