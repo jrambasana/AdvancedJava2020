@@ -4,9 +4,17 @@
         <servlet-name>Servlet1</servlet-name>
         <servlet-class>Servlet1</servlet-class>
     </servlet>
+    <servlet>
+        <servlet-name>Servlet2</servlet-name>
+        <servlet-class>Servlet2</servlet-class>
+    </servlet>
     <servlet-mapping>
         <servlet-name>Servlet1</servlet-name>
         <url-pattern>/date</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>Servlet2</servlet-name>
+        <url-pattern>/Servlet2</url-pattern>
     </servlet-mapping>
     <welcome-file-list>
         <welcome-file>date</welcome-file>
