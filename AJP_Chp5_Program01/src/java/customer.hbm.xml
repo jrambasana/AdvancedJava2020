@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE hibernate-mapping PUBLIC
+"-//Hibernate/Hibernate Mapping DTD 5.3//EN"
+"http://hibernate.sourceforge.net/hibernate-mapping-5.3.dtd">
+
+<hibernate-mapping>
+    <class name="hibernate01.Customer" table="customers">
+    <id name="id">
+        <generator class="increment"></generator>
+    </id>
+    <property name="first_name"></property>
+    <property name="last_name"></property>
+    <property name="age"></property>
+    <property name="city"></property>
+    </class>
+
+</hibernate-mapping>
