@@ -12,6 +12,8 @@
     <property name="last_name"></property>
     <property name="age"></property>
     <property name="city"></property>
+    <property name="contact"></property>
+    <property name="address"></property>
     </class>
 
 </hibernate-mapping>

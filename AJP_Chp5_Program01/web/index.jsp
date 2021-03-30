@@ -12,6 +12,8 @@
             Last Name<input type="text" name="last_name"/><br><br/>
             Age:<input type="text" name="age"/><br><br/>
             City:<input type="text" name="city"/><br><br/>
+            Contact:<input type="text" name="contact"/><br><br/>
+            Address:<input type="text" name="address"/><br><br/>
             <input type="submit" value="Register"/>
         </form>
     </body>
