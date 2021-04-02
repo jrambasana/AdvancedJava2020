@@ -14,7 +14,9 @@
             City:<input type="text" name="city"/><br><br/>
             Contact:<input type="text" name="contact"/><br><br/>
             Address:<input type="text" name="address"/><br><br/>
+            State:<input type="text" name="state"/><br><br/>
             <input type="submit" value="Register"/>
         </form>
+        <p>View all the Customers <a href="viewCustomers.jsp">here</a></p>
     </body>
 </html>

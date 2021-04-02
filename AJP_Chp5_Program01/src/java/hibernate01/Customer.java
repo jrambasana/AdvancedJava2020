@@ -3,7 +3,16 @@ package hibernate01;
 public class Customer {
     private int id, age;
     private String first_name, last_name, city;
-    private String contact, address;
+    private String contact, address, state;
+
+    public String getState() {
+        return state;
+    }
+
+    public void setState(String state) {
+        this.state = state;
+    }
+
 
     public String getContact() {
         return contact;
