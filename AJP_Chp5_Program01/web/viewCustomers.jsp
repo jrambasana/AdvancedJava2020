@@ -7,7 +7,7 @@ import="java.util.*,hibernate01.CustomerDAO,hibernate01.Customer,org.hibernate.*
         <title>View Customers Page</title>
     </head>
     <body>
-        
+    <H1>View Customers</H1>        
     <table border="1">
         <tr>
             <th>ID</th>
