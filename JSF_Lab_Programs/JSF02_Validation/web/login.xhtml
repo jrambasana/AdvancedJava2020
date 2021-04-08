@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://java.sun.com/jsf/html"
+      xmlns:f="http://java.sun.com/jsf/core">
+    
+<h:head>
+    <title>Facelet Title</title>
+</h:head>
+<h:body>
+    
+<h1>Simple JSF Tags Example</h1>
+
+<h:form>
+
+Enter Name: 
+<h:inputText id="name" value="#{helloworld.uname}">
+    <f:validateLength minimum="5" maximum="8"/>
+</h:inputText>
+<br> </br>
+
+Enter Mobile No: 
+<h:inputText id="mob_no" required="true" value="#{helloworld.mobno}" maxlength="10" validatorMessage="Please enter 10 digits">
+    <f:validateLength minimum="10" maximum="10"/>
+</h:inputText>
+<br></br>
+
+Enter Gender: 
+<h:selectOneRadio> 
+    <f:selectItem itemValue="1" itemLabel="Male"/>
+    <f:selectItem itemValue="2" itemLabel="Female"/>
+</h:selectOneRadio>
+<br></br>
+
+Enter Address: <h:inputText id="address" /><br></br>
+
+Enter Password: <h:inputSecret id="pwd"/><br></br>
+
+<h:commandButton value="submit" action="Result" />	
+
+</h:form>
+	
+</h:body>
+</html>
