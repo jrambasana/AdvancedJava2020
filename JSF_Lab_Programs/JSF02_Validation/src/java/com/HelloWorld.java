@@ -5,13 +5,13 @@ import javax.faces.bean.RequestScoped;
 
 @ManagedBean
 @RequestScoped
-public class helloworld {
+public class HelloWorld {
 
 private String uname;
 private String mobno;
 
-public helloworld(){
-        System.out.println("helloworld Started");
+public HelloWorld(){
+        System.out.println("HelloWorld Started");
 }
 
 public String getMobno(){

@@ -5,36 +5,26 @@
       xmlns:f="http://java.sun.com/jsf/core">
     
 <h:head>
-    <title>Facelet Title</title>
+    <title>Validation Example</title>
 </h:head>
 <h:body>
     
-<h1>Simple JSF Tags Example</h1>
+<h1>Validation Example</h1>
 
 <h:form>
 
 Enter Name: 
-<h:inputText id="name" value="#{helloworld.uname}">
+<h:inputText id="name" value="#{helloWorld.uname}">
     <f:validateLength minimum="5" maximum="8"/>
 </h:inputText>
 <br> </br>
 
 Enter Mobile No: 
-<h:inputText id="mob_no" required="true" value="#{helloworld.mobno}" maxlength="10" validatorMessage="Please enter 10 digits">
+<h:inputText id="mob_no" required="true" value="#{helloWorld.mobno}" 
+             maxlength="10" validatorMessage="Please enter 10 digits">
     <f:validateLength minimum="10" maximum="10"/>
 </h:inputText>
 <br></br>
-
-Enter Gender: 
-<h:selectOneRadio> 
-    <f:selectItem itemValue="1" itemLabel="Male"/>
-    <f:selectItem itemValue="2" itemLabel="Female"/>
-</h:selectOneRadio>
-<br></br>
-
-Enter Address: <h:inputText id="address" /><br></br>
-
-Enter Password: <h:inputSecret id="pwd"/><br></br>
 
 <h:commandButton value="submit" action="Result" />	
 

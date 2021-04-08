@@ -4,16 +4,17 @@
 xmlns:h="http://java.sun.com/jsf/html"
 xmlns:f="http://java.sun.com/jsf/core" >
 <h:head>
-  <title>Facelet Title</title>
+  <title>Convert Number Example</title>
 </h:head>
 <h:body>
   <h1>Convert Number Example</h1>
-  <h:outputText value="100.12685">
+  <h:outputText value="100.12585">
       <f:convertNumber maxFractionDigits="2" />
   </h:outputText><br> </br>
 
   <h:outputText value="100.12685">
-      <f:convertNumber minIntegerDigits="5" minFractionDigits="5" />
+      <f:convertNumber minIntegerDigits="4"
+                       minFractionDigits="3" />
   </h:outputText><br> </br>
 
   <h:outputText value="100.12685">
@@ -24,7 +25,7 @@ xmlns:f="http://java.sun.com/jsf/core" >
       <f:convertNumber currencySymbol="$" type="currency"/>
   </h:outputText><br> </br>	
 
-  <h:outputText value="99.1234%">
+  <h:outputText value="98.4234%">
           <f:convertNumber type="percent"/>
   </h:outputText><br> </br>	
 
