@@ -13,7 +13,7 @@ public int saveEmployee(Employee e){
 	return jdbcTemplate.update(query);
 }
 public int updateEmployee(Employee e){
-	String query="update employee set name='"+e.getName()+"',salary='"+e.getSalary()+"' where id='"+e.getId()+"' ";
+	String query="update employee set name='"+e.getName()+"',salary='"+(e.getSalary()+10000)+"' where id='"+e.getId()+"' ";
 	return jdbcTemplate.update(query);
 }
 public int deleteEmployee(Employee e){
