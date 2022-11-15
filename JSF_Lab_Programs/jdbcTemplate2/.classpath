@@ -1,35 +1,81 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
-	<classpathentry kind="lib" path="D:/ravi/springjars/d/spring-framework-3.0.1.RELEASE-A/dist/org.springframework.aop-3.0.1.RELEASE-A.jar"/>
-	<classpathentry kind="lib" path="D:/ravi/springjars/d/spring-framework-3.0.1.RELEASE-A/dist/org.springframework.asm-3.0.1.RELEASE-A.jar"/>
-	<classpathentry kind="lib" path="D:/ravi/springjars/d/spring-framework-3.0.1.RELEASE-A/dist/org.springframework.aspects-3.0.1.RELEASE-A.jar"/>
-	<classpathentry kind="lib" path="D:/ravi/springjars/d/spring-framework-3.0.1.RELEASE-A/dist/org.springframework.beans-3.0.1.RELEASE-A.jar"/>
-	<classpathentry kind="lib" path="D:/ravi/springjars/d/spring-framework-3.0.1.RELEASE-A/dist/org.springframework.context-3.0.1.RELEASE-A.jar"/>
-	<classpathentry kind="lib" path="D:/ravi/springjars/d/spring-framework-3.0.1.RELEASE-A/dist/org.springframework.context.support-3.0.1.RELEASE-A.jar"/>
-	<classpathentry kind="lib" path="D:/ravi/springjars/d/spring-framework-3.0.1.RELEASE-A/dist/org.springframework.core-3.0.1.RELEASE-A.jar"/>
-	<classpathentry kind="lib" path="D:/ravi/springjars/d/spring-framework-3.0.1.RELEASE-A/dist/org.springframework.expression-3.0.1.RELEASE-A.jar"/>
-	<classpathentry kind="lib" path="D:/ravi/springjars/d/spring-framework-3.0.1.RELEASE-A/dist/org.springframework.instrument-3.0.1.RELEASE-A.jar"/>
-	<classpathentry kind="lib" path="D:/ravi/springjars/d/spring-framework-3.0.1.RELEASE-A/dist/org.springframework.instrument.tomcat-3.0.1.RELEASE-A.jar"/>
-	<classpathentry kind="lib" path="D:/ravi/springjars/d/spring-framework-3.0.1.RELEASE-A/dist/org.springframework.jdbc-3.0.1.RELEASE-A.jar"/>
-	<classpathentry kind="lib" path="D:/ravi/springjars/d/spring-framework-3.0.1.RELEASE-A/dist/org.springframework.jms-3.0.1.RELEASE-A.jar"/>
-	<classpathentry kind="lib" path="D:/ravi/springjars/d/spring-framework-3.0.1.RELEASE-A/dist/org.springframework.orm-3.0.1.RELEASE-A.jar"/>
-	<classpathentry kind="lib" path="D:/ravi/springjars/d/spring-framework-3.0.1.RELEASE-A/dist/org.springframework.oxm-3.0.1.RELEASE-A.jar"/>
-	<classpathentry kind="lib" path="D:/ravi/springjars/d/spring-framework-3.0.1.RELEASE-A/dist/org.springframework.test-3.0.1.RELEASE-A.jar"/>
-	<classpathentry kind="lib" path="D:/ravi/springjars/d/spring-framework-3.0.1.RELEASE-A/dist/org.springframework.transaction-3.0.1.RELEASE-A.jar"/>
-	<classpathentry kind="lib" path="D:/ravi/springjars/d/spring-framework-3.0.1.RELEASE-A/dist/org.springframework.web-3.0.1.RELEASE-A.jar"/>
-	<classpathentry kind="lib" path="D:/ravi/springjars/d/spring-framework-3.0.1.RELEASE-A/dist/org.springframework.web.portlet-3.0.1.RELEASE-A.jar"/>
-	<classpathentry kind="lib" path="D:/ravi/springjars/d/spring-framework-3.0.1.RELEASE-A/dist/org.springframework.web.servlet-3.0.1.RELEASE-A.jar"/>
-	<classpathentry kind="lib" path="D:/ravi/springjars/d/spring-framework-3.0.1.RELEASE-A/dist/org.springframework.web.struts-3.0.1.RELEASE-A.jar"/>
-	<classpathentry kind="lib" path="D:/ravi/springjars/springjar/com.springsource.org.apache.commons.logging-1.1.1.jar"/>
-	<classpathentry kind="lib" path="D:/ravi/springjars/springjar/com.springsource.org.apache.log4j-1.2.15.jar"/>
-	<classpathentry kind="lib" path="D:/ravi/springjars/springjar/jmxtools-1.2.1.jar"/>
-	<classpathentry kind="lib" path="D:/ravi/springjars/springjar/org.springframework.asm-3.0.1.RELEASE-A.jar"/>
-	<classpathentry kind="lib" path="D:/ravi/springjars/springjar/org.springframework.beans-3.0.1.RELEASE-A.jar"/>
-	<classpathentry kind="lib" path="D:/ravi/springjars/springjar/org.springframework.context-3.0.1.RELEASE-A.jar"/>
-	<classpathentry kind="lib" path="D:/ravi/springjars/springjar/org.springframework.core-3.0.1.RELEASE-A.jar"/>
-	<classpathentry kind="lib" path="D:/ravi/springjars/springjar/org.springframework.expression-3.0.1.RELEASE-A.jar"/>
-	<classpathentry kind="lib" path="C:/oraclexe/app/oracle/product/10.2.0/server/jdbc/lib/ojdbc14.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/01 JRA Marwadi/05 ODD Sem 2022-23/AJP 2022-23/AdvancedJava2020/springjars/aop.zip"/>
+	<classpathentry kind="lib" path="E:/01 JRA Marwadi/05 ODD Sem 2022-23/AJP 2022-23/AdvancedJava2020/springjars/core.zip"/>
+	<classpathentry kind="lib" path="E:/01 JRA Marwadi/05 ODD Sem 2022-23/AJP 2022-23/AdvancedJava2020/springjars/ibatis.zip"/>
+	<classpathentry kind="lib" path="E:/01 JRA Marwadi/05 ODD Sem 2022-23/AJP 2022-23/AdvancedJava2020/springjars/j2ee.zip"/>
+	<classpathentry kind="lib" path="E:/01 JRA Marwadi/05 ODD Sem 2022-23/AJP 2022-23/AdvancedJava2020/springjars/javaconfig.zip"/>
+	<classpathentry kind="lib" path="E:/01 JRA Marwadi/05 ODD Sem 2022-23/AJP 2022-23/AdvancedJava2020/springjars/misc.zip"/>
+	<classpathentry kind="lib" path="E:/01 JRA Marwadi/05 ODD Sem 2022-23/AJP 2022-23/AdvancedJava2020/springjars/persistCore.zip"/>
+	<classpathentry kind="lib" path="E:/01 JRA Marwadi/05 ODD Sem 2022-23/AJP 2022-23/AdvancedJava2020/springjars/persistJdbc.zip"/>
+	<classpathentry kind="lib" path="E:/01 JRA Marwadi/05 ODD Sem 2022-23/AJP 2022-23/AdvancedJava2020/springjars/persistJDO.zip"/>
+	<classpathentry kind="lib" path="E:/01 JRA Marwadi/05 ODD Sem 2022-23/AJP 2022-23/AdvancedJava2020/springjars/remoting.zip"/>
+	<classpathentry kind="lib" path="E:/01 JRA Marwadi/05 ODD Sem 2022-23/AJP 2022-23/AdvancedJava2020/springjars/test.zip"/>
+	<classpathentry kind="lib" path="E:/01 JRA Marwadi/05 ODD Sem 2022-23/AJP 2022-23/AdvancedJava2020/springjars/web.zip"/>
+	<classpathentry kind="lib" path="lib"/>
+	<classpathentry kind="lib" path="E:/01 JRA Marwadi/05 ODD Sem 2022-23/AJP 2022-23/AdvancedJava2020/AdvancedJava2020/JSF_Lab_Programs/jdbcTemplate2/lib/activation-1.0.2.jar"/>
+	<classpathentry kind="lib" path="E:/01 JRA Marwadi/05 ODD Sem 2022-23/AJP 2022-23/AdvancedJava2020/AdvancedJava2020/JSF_Lab_Programs/jdbcTemplate2/lib/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="E:/01 JRA Marwadi/05 ODD Sem 2022-23/AJP 2022-23/AdvancedJava2020/AdvancedJava2020/JSF_Lab_Programs/jdbcTemplate2/lib/aopalliance-1.0.jar"/>
+	<classpathentry kind="lib" path="E:/01 JRA Marwadi/05 ODD Sem 2022-23/AJP 2022-23/AdvancedJava2020/AdvancedJava2020/JSF_Lab_Programs/jdbcTemplate2/lib/asm-1.5.3.jar"/>
+	<classpathentry kind="lib" path="E:/01 JRA Marwadi/05 ODD Sem 2022-23/AJP 2022-23/AdvancedJava2020/AdvancedJava2020/JSF_Lab_Programs/jdbcTemplate2/lib/asm-attrs-1.5.3.jar"/>
+	<classpathentry kind="lib" path="E:/01 JRA Marwadi/05 ODD Sem 2022-23/AJP 2022-23/AdvancedJava2020/AdvancedJava2020/JSF_Lab_Programs/jdbcTemplate2/lib/cglib-2.1_3.jar"/>
+	<classpathentry kind="lib" path="E:/01 JRA Marwadi/05 ODD Sem 2022-23/AJP 2022-23/AdvancedJava2020/AdvancedJava2020/JSF_Lab_Programs/jdbcTemplate2/lib/commons-beanutils-1.7.0.jar"/>
+	<classpathentry kind="lib" path="E:/01 JRA Marwadi/05 ODD Sem 2022-23/AJP 2022-23/AdvancedJava2020/AdvancedJava2020/JSF_Lab_Programs/jdbcTemplate2/lib/commons-collections-2.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/01 JRA Marwadi/05 ODD Sem 2022-23/AJP 2022-23/AdvancedJava2020/AdvancedJava2020/JSF_Lab_Programs/jdbcTemplate2/lib/commons-digester-1.8.jar"/>
+	<classpathentry kind="lib" path="E:/01 JRA Marwadi/05 ODD Sem 2022-23/AJP 2022-23/AdvancedJava2020/AdvancedJava2020/JSF_Lab_Programs/jdbcTemplate2/lib/commons-email-1.0.jar"/>
+	<classpathentry kind="lib" path="E:/01 JRA Marwadi/05 ODD Sem 2022-23/AJP 2022-23/AdvancedJava2020/AdvancedJava2020/JSF_Lab_Programs/jdbcTemplate2/lib/commons-fileupload-1.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/01 JRA Marwadi/05 ODD Sem 2022-23/AJP 2022-23/AdvancedJava2020/AdvancedJava2020/JSF_Lab_Programs/jdbcTemplate2/lib/commons-io-1.1.jar"/>
+	<classpathentry kind="lib" path="E:/01 JRA Marwadi/05 ODD Sem 2022-23/AJP 2022-23/AdvancedJava2020/AdvancedJava2020/JSF_Lab_Programs/jdbcTemplate2/lib/commons-lang-2.5.jar"/>
+	<classpathentry kind="lib" path="E:/01 JRA Marwadi/05 ODD Sem 2022-23/AJP 2022-23/AdvancedJava2020/AdvancedJava2020/JSF_Lab_Programs/jdbcTemplate2/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/01 JRA Marwadi/05 ODD Sem 2022-23/AJP 2022-23/AdvancedJava2020/AdvancedJava2020/JSF_Lab_Programs/jdbcTemplate2/lib/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="E:/01 JRA Marwadi/05 ODD Sem 2022-23/AJP 2022-23/AdvancedJava2020/AdvancedJava2020/JSF_Lab_Programs/jdbcTemplate2/lib/dumbster-1.6.jar"/>
+	<classpathentry kind="lib" path="E:/01 JRA Marwadi/05 ODD Sem 2022-23/AJP 2022-23/AdvancedJava2020/AdvancedJava2020/JSF_Lab_Programs/jdbcTemplate2/lib/ehcache-1.2.3.jar"/>
+	<classpathentry kind="lib" path="E:/01 JRA Marwadi/05 ODD Sem 2022-23/AJP 2022-23/AdvancedJava2020/AdvancedJava2020/JSF_Lab_Programs/jdbcTemplate2/lib/hibernate-3.2.6.ga.jar"/>
+	<classpathentry kind="lib" path="E:/01 JRA Marwadi/05 ODD Sem 2022-23/AJP 2022-23/AdvancedJava2020/AdvancedJava2020/JSF_Lab_Programs/jdbcTemplate2/lib/hibernate-annotations-3.3.1.GA.jar"/>
+	<classpathentry kind="lib" path="E:/01 JRA Marwadi/05 ODD Sem 2022-23/AJP 2022-23/AdvancedJava2020/AdvancedJava2020/JSF_Lab_Programs/jdbcTemplate2/lib/hibernate-commons-annotations-3.0.0.ga.jar"/>
+	<classpathentry kind="lib" path="E:/01 JRA Marwadi/05 ODD Sem 2022-23/AJP 2022-23/AdvancedJava2020/AdvancedJava2020/JSF_Lab_Programs/jdbcTemplate2/lib/hibernate-entitymanager-3.3.2.GA.jar"/>
+	<classpathentry kind="lib" path="E:/01 JRA Marwadi/05 ODD Sem 2022-23/AJP 2022-23/AdvancedJava2020/AdvancedJava2020/JSF_Lab_Programs/jdbcTemplate2/lib/hibernate-search-3.0.0.GA.jar"/>
+	<classpathentry kind="lib" path="E:/01 JRA Marwadi/05 ODD Sem 2022-23/AJP 2022-23/AdvancedJava2020/AdvancedJava2020/JSF_Lab_Programs/jdbcTemplate2/lib/hibernate-validator-4.0.2.GA.jar"/>
+	<classpathentry kind="lib" path="E:/01 JRA Marwadi/05 ODD Sem 2022-23/AJP 2022-23/AdvancedJava2020/AdvancedJava2020/JSF_Lab_Programs/jdbcTemplate2/lib/icu4j-2.6.1.jar"/>
+	<classpathentry kind="lib" path="E:/01 JRA Marwadi/05 ODD Sem 2022-23/AJP 2022-23/AdvancedJava2020/AdvancedJava2020/JSF_Lab_Programs/jdbcTemplate2/lib/javassist-3.4.GA.jar"/>
+	<classpathentry kind="lib" path="E:/01 JRA Marwadi/05 ODD Sem 2022-23/AJP 2022-23/AdvancedJava2020/AdvancedJava2020/JSF_Lab_Programs/jdbcTemplate2/lib/jaxb-api-2.1.jar"/>
+	<classpathentry kind="lib" path="E:/01 JRA Marwadi/05 ODD Sem 2022-23/AJP 2022-23/AdvancedJava2020/AdvancedJava2020/JSF_Lab_Programs/jdbcTemplate2/lib/jaxb-impl-2.1.3.jar"/>
+	<classpathentry kind="lib" path="E:/01 JRA Marwadi/05 ODD Sem 2022-23/AJP 2022-23/AdvancedJava2020/AdvancedJava2020/JSF_Lab_Programs/jdbcTemplate2/lib/jaxen-1.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/01 JRA Marwadi/05 ODD Sem 2022-23/AJP 2022-23/AdvancedJava2020/AdvancedJava2020/JSF_Lab_Programs/jdbcTemplate2/lib/jdom-1.0.jar"/>
+	<classpathentry kind="lib" path="E:/01 JRA Marwadi/05 ODD Sem 2022-23/AJP 2022-23/AdvancedJava2020/AdvancedJava2020/JSF_Lab_Programs/jdbcTemplate2/lib/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/01 JRA Marwadi/05 ODD Sem 2022-23/AJP 2022-23/AdvancedJava2020/AdvancedJava2020/JSF_Lab_Programs/jdbcTemplate2/lib/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="E:/01 JRA Marwadi/05 ODD Sem 2022-23/AJP 2022-23/AdvancedJava2020/AdvancedJava2020/JSF_Lab_Programs/jdbcTemplate2/lib/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="E:/01 JRA Marwadi/05 ODD Sem 2022-23/AJP 2022-23/AdvancedJava2020/AdvancedJava2020/JSF_Lab_Programs/jdbcTemplate2/lib/lucene-core-2.3.2.jar"/>
+	<classpathentry kind="lib" path="E:/01 JRA Marwadi/05 ODD Sem 2022-23/AJP 2022-23/AdvancedJava2020/AdvancedJava2020/JSF_Lab_Programs/jdbcTemplate2/lib/lucene-highlighter-2.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/01 JRA Marwadi/05 ODD Sem 2022-23/AJP 2022-23/AdvancedJava2020/AdvancedJava2020/JSF_Lab_Programs/jdbcTemplate2/lib/mail-1.4.jar"/>
+	<classpathentry kind="lib" path="E:/01 JRA Marwadi/05 ODD Sem 2022-23/AJP 2022-23/AdvancedJava2020/AdvancedJava2020/JSF_Lab_Programs/jdbcTemplate2/lib/mysql-connector-java-5.0.5.jar"/>
+	<classpathentry kind="lib" path="E:/01 JRA Marwadi/05 ODD Sem 2022-23/AJP 2022-23/AdvancedJava2020/AdvancedJava2020/JSF_Lab_Programs/jdbcTemplate2/lib/persistence-api-1.0.jar"/>
+	<classpathentry kind="lib" path="E:/01 JRA Marwadi/05 ODD Sem 2022-23/AJP 2022-23/AdvancedJava2020/AdvancedJava2020/JSF_Lab_Programs/jdbcTemplate2/lib/quartz-1.5.2.jar"/>
+	<classpathentry kind="lib" path="E:/01 JRA Marwadi/05 ODD Sem 2022-23/AJP 2022-23/AdvancedJava2020/AdvancedJava2020/JSF_Lab_Programs/jdbcTemplate2/lib/slf4j-api-1.5.6.jar"/>
+	<classpathentry kind="lib" path="E:/01 JRA Marwadi/05 ODD Sem 2022-23/AJP 2022-23/AdvancedJava2020/AdvancedJava2020/JSF_Lab_Programs/jdbcTemplate2/lib/slf4j-log4j12-1.5.6.jar"/>
+	<classpathentry kind="lib" path="E:/01 JRA Marwadi/05 ODD Sem 2022-23/AJP 2022-23/AdvancedJava2020/AdvancedJava2020/JSF_Lab_Programs/jdbcTemplate2/lib/spring-aop-3.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/01 JRA Marwadi/05 ODD Sem 2022-23/AJP 2022-23/AdvancedJava2020/AdvancedJava2020/JSF_Lab_Programs/jdbcTemplate2/lib/spring-asm-3.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/01 JRA Marwadi/05 ODD Sem 2022-23/AJP 2022-23/AdvancedJava2020/AdvancedJava2020/JSF_Lab_Programs/jdbcTemplate2/lib/spring-beans-3.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/01 JRA Marwadi/05 ODD Sem 2022-23/AJP 2022-23/AdvancedJava2020/AdvancedJava2020/JSF_Lab_Programs/jdbcTemplate2/lib/spring-context-3.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/01 JRA Marwadi/05 ODD Sem 2022-23/AJP 2022-23/AdvancedJava2020/AdvancedJava2020/JSF_Lab_Programs/jdbcTemplate2/lib/spring-core-3.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/01 JRA Marwadi/05 ODD Sem 2022-23/AJP 2022-23/AdvancedJava2020/AdvancedJava2020/JSF_Lab_Programs/jdbcTemplate2/lib/spring-expression-3.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/01 JRA Marwadi/05 ODD Sem 2022-23/AJP 2022-23/AdvancedJava2020/AdvancedJava2020/JSF_Lab_Programs/jdbcTemplate2/lib/spring-jdbc-3.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/01 JRA Marwadi/05 ODD Sem 2022-23/AJP 2022-23/AdvancedJava2020/AdvancedJava2020/JSF_Lab_Programs/jdbcTemplate2/lib/spring-orm-3.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/01 JRA Marwadi/05 ODD Sem 2022-23/AJP 2022-23/AdvancedJava2020/AdvancedJava2020/JSF_Lab_Programs/jdbcTemplate2/lib/spring-tx-3.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/01 JRA Marwadi/05 ODD Sem 2022-23/AJP 2022-23/AdvancedJava2020/AdvancedJava2020/JSF_Lab_Programs/jdbcTemplate2/lib/spring-web-3.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/01 JRA Marwadi/05 ODD Sem 2022-23/AJP 2022-23/AdvancedJava2020/AdvancedJava2020/JSF_Lab_Programs/jdbcTemplate2/lib/spring-webmvc-3.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="E:/01 JRA Marwadi/05 ODD Sem 2022-23/AJP 2022-23/AdvancedJava2020/AdvancedJava2020/JSF_Lab_Programs/jdbcTemplate2/lib/stax-api-1.0-2.jar"/>
+	<classpathentry kind="lib" path="E:/01 JRA Marwadi/05 ODD Sem 2022-23/AJP 2022-23/AdvancedJava2020/AdvancedJava2020/JSF_Lab_Programs/jdbcTemplate2/lib/validation-api-1.0.0.GA.jar"/>
+	<classpathentry kind="lib" path="E:/01 JRA Marwadi/05 ODD Sem 2022-23/AJP 2022-23/AdvancedJava2020/AdvancedJava2020/JSF_Lab_Programs/jdbcTemplate2/lib/xalan-2.6.0.jar"/>
+	<classpathentry kind="lib" path="E:/01 JRA Marwadi/05 ODD Sem 2022-23/AJP 2022-23/AdvancedJava2020/AdvancedJava2020/JSF_Lab_Programs/jdbcTemplate2/lib/xercesImpl-2.6.2.jar"/>
+	<classpathentry kind="lib" path="E:/01 JRA Marwadi/05 ODD Sem 2022-23/AJP 2022-23/AdvancedJava2020/AdvancedJava2020/JSF_Lab_Programs/jdbcTemplate2/lib/xml-apis-1.3.02.jar"/>
+	<classpathentry kind="lib" path="E:/01 JRA Marwadi/05 ODD Sem 2022-23/AJP 2022-23/AdvancedJava2020/AdvancedJava2020/JSF_Lab_Programs/jdbcTemplate2/lib/xmlParserAPIs-2.6.2.jar"/>
+	<classpathentry kind="lib" path="E:/01 JRA Marwadi/05 ODD Sem 2022-23/AJP 2022-23/AdvancedJava2020/AdvancedJava2020/JSF_Lab_Programs/jdbcTemplate2/lib/xom-1.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
