@@ -22,9 +22,9 @@ public static void main(String[] args) {
     System.out.println(status);
     
 
-    e=new Employee();
-    e.setId(101);
-    status=dao.deleteEmployee(e);
-    System.out.println(status);
+//    e=new Employee();
+//    e.setId(101);
+//    status=dao.deleteEmployee(e);
+//    System.out.println(status);
 }
 }
